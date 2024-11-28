@@ -280,6 +280,9 @@ L’usage du signet (ou du favoris) évite de ressaisir l’adresse complète du
 
 Elément d’identification d’un abonné mobile.
 Voir Carte SIM.
+## SIM Swapping
+
+Technique frauduleuse consistant à usurper l'identité d'un abonné auprès de son opérateur téléphonique afin de faire transférer les communications de sa carte SIM vers une carte SIM maîtrisée par l'attaquant. Il lui devient alors possibel de contourner d'autres sécurités, en particulier l'authentification double facteur par SMS.
 
 ## Sinkholing
 Le DNS* sinkholing ou plus simplement le sinkholing est une pratique utilisée pour lutter contre les programmes malveillants (le botnets* par exemple).
